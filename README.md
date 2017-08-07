@@ -1,5 +1,5 @@
 # PHPShellBackdoors
-Just a repo for backdoors I find *within* web shells and mailerbomb scripts
+Just a repo for backdoors I find *within* web shells and mailbomb scripts
 
 If you have a shell that you can't figure out the backdoor for just commit it and I'll check it out
 
