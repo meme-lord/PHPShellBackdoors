@@ -1,9 +1,6 @@
 <?php
 /**
-* Source: https://github.com/Bl4ckH4t-H4ck3r
-* Receiver: https://api.telegram.org/bot1729991611:AAHNMJh9xPulpdUqS46UmHGwckc5rJ7n6zs/sendMessage?chat_id=-555971049&text=
-* Telegram API output:
-* {"ok":true,"result":{"message_id":37436,"from":{"id":1729991611,"is_bot":true,"first_name":"Noname","username":"phenaxgodbot"},"chat":{"id":-555971049,"title":"Shell","type":"group","all_members_are_administrators":true},"date":1625479747,"text":"lmao shit backdoor"}}
+* vete a la mierda
 **/
 
 // Obfuscated
